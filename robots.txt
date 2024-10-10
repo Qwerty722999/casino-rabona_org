@@ -1,0 +1,3 @@
+User-agent: *
+Allow: *
+Sitemap: https://casino-rabona.org/sitemap_index.xml
